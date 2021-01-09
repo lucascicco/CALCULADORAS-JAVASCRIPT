@@ -24,3 +24,7 @@ For that I used methods like:
 - eval, to manipulate the operations described inside the calculator's input.
 
 Created by, Lucas Vitor.
+
+Gallery - Galeria
+
+<img src="assets/calculadora1.png" height=300 width=300> <img src="assets/calculadora2.png" height=300 width=300> <img src="assets/calculadora3.png" height=300 width=300>
