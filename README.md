@@ -12,7 +12,7 @@ Para isso utilizei métodos como:
 
 Criado por, Lucas Vitor.
 
-## ENGLISH - Use of mathematical functions in JAVASCRIPT.
+## ENGLISH - Use of mathematical functions in JAVASCRIPT / CALCULATOR
 
 This web-site was developed using **BOOTSTRAP** as a styling tool and the creation of a responsive and adaptive layout that is properly available on any type of screen, through the use of
 **"col"** and **"row"** with screen specifications as an example: "md-7 sm-2 lg-8 xl-6" giving each screen dimension an X screen dimension.
@@ -25,6 +25,7 @@ For that I used methods like:
 
 Created by, Lucas Vitor.
 
-Gallery - Galeria
+
+## GALLERY - GALERIA
 
 <img src="assets/calculadora1.png" height=300 width=300> <img src="assets/calculadora2.png" height=300 width=300> <img src="assets/calculadora3.png" height=300 width=300>
