@@ -28,4 +28,4 @@ Created by, Lucas Vitor.
 
 ## GALLERY - GALERIA
 
-<img src="assets/calculadora1.png" height=300 width=300> <img src="assets/calculadora2.png" height=300 width=300> <img src="assets/calculadora3.png" height=300 width=300>
+<img src="assets/calculadora1.png" height=250 width=250> <img src="assets/calculadora2.png" height=250 width=250> <img src="assets/calculadora3.png" height=250 width=250>
